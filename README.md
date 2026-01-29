@@ -1,11 +1,6 @@
-## Chatterbox Multilingual Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdulrahmanrind2-cpu/abkhan/blob/main/Voice%20Clone.ipynb) <br>
-
-![aa](https://github.com/user-attachments/assets/2b82bd12-9dad-4ed8-8c89-f244d264803a)
-
 
 ## Credit:
-[chatterbox](https://github.com/resemble-ai/chatterbox)
+[NOT]
 
 ## Disclaimer
 Don't use this model to do bad things. 
